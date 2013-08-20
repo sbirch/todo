@@ -18,16 +18,21 @@ Installation
 
 `pip install todo`
 
+This tool uses `ack` behind the scenes for fast searching (<a href="http://beyondgrep.com/install/">ack installation</a>.)
+
 Usage
 =====
 
 All TODOs in codebase:
+
 `todo`
 
 TODOs by these people:
+
 `todo sam ben`
 
 Count of TODOs by person:
+
 `todo --count`
 
 ```
