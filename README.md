@@ -16,7 +16,11 @@ TODO(sam/jim): make this faster
 Installation
 ============
 
-`pip install todo`
+```
+pip install todo
+```
+
+(This may require permissions to install the `todo` script to your path.)
 
 This tool uses `ack` behind the scenes for fast searching (<a href="http://beyondgrep.com/install/">ack installation</a>.)
 
